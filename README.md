@@ -1,2 +1,5 @@
 # DevelopmentEnvironmentSettings
-my development environment settings
+
+## Overview
+
+My editor configurations.
